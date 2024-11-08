@@ -24,7 +24,7 @@ description: >-
   Meet Maram & Muhanned, a writer and a chef teaming up to establish a community kitchen in their temporary home of Al Mawasi Camp, Gaza!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://americankitchen.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: jekyllrb
+twitter_username: jekyllrb
 #github_username:  jekyll
 instagram_username: marams_kitchen
 

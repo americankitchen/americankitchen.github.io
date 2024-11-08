@@ -9,4 +9,3 @@ The American Kitchen is a food kitchen run for Gazans by Gazans in Al Mawasi. As
 
 The Kitchen is not run through an NGO and no one involved takes a salary. All donations go straight to kitchen and food supplies. As winter approaches and food costs rise, organizers hope that by shouldering the burden of food costs, more families will be able to afford warm clothing.
 
-
